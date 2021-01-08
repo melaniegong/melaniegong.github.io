@@ -19,3 +19,7 @@ body {
   margin-right: auto;
   width: 50%
 }
+.body1 {
+  margin-left: 100px;
+  margin-right: 100px;
+}
