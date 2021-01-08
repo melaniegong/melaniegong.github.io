@@ -1,8 +1,8 @@
 p {
   text-align: center;
   font-size: 35px;
-  margin-left: 600px;
-  margin-right: 600px;
+  margin-left: 800px;
+  margin-right: 800px;
   color: purple;
 }
 body {
@@ -20,8 +20,8 @@ body {
   width: 50%
 }
 .body1 {
-  margin-left: 600px;
-  margin-right: 600px;
+  margin-left: 800px;
+  margin-right: 800px;
 }
 html,body {
   font-family: 'Raleway', sans-serif;
