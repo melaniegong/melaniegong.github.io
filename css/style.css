@@ -1,8 +1,8 @@
-.p {
+p {
   text-align: center;
   font-size: 35px;
   color: purple;
 }
-.body1{
-  background-color: grey}
-.div1{
+body {
+  background-color: grey;
+}
