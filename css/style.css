@@ -1,8 +1,8 @@
 p {
   text-align: center;
   font-size: 35px;
-  margin-left: 80px;
-  margin-right: 80px;
+  margin-left: 200px;
+  margin-right: 200px;
   color: purple;
 }
 body {
@@ -20,6 +20,6 @@ body {
   width: 50%
 }
 .body1 {
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
