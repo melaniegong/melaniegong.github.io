@@ -11,3 +11,8 @@ div1 {
   font-size: 35;
   color: purple;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
